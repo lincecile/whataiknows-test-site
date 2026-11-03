@@ -1,0 +1,132 @@
+{
+  "schema": 1,
+  "corpus_id": "whataiknows-synthetic-v1",
+  "synthetic": true,
+  "access": {
+    "method": "GET",
+    "minimum_interval_seconds": 6,
+    "maximum_requests_per_run": 16
+  },
+  "pages": [
+    {
+      "id": "p01",
+      "path": "pages/p01.html",
+      "sha256": "892a9cab36e4a09960e04e56c5ccedda3d7ccea06771efa3c55ecf5cf9d037cd",
+      "bytes": 1329,
+      "obsolete": false,
+      "published_on": "2026-01-01"
+    },
+    {
+      "id": "p02",
+      "path": "pages/p02.html",
+      "sha256": "a0759a47b5849dda96f1595e89bf39fd084adcff3a93a89bd8ff2fc636c35cb4",
+      "bytes": 1071,
+      "obsolete": false,
+      "published_on": "2026-02-01"
+    },
+    {
+      "id": "p03",
+      "path": "pages/p03.html",
+      "sha256": "311a400a0116c9de39b9f5abf9b6cd2c3f1cf47417c60db52d1e4a18f900b19c",
+      "bytes": 1006,
+      "obsolete": false,
+      "published_on": "2026-03-01"
+    },
+    {
+      "id": "p04",
+      "path": "pages/p04.html",
+      "sha256": "741a718e89b2b9624592904bd1f7153b12d24345573f925d0bba6dd2e9b92ce6",
+      "bytes": 1023,
+      "obsolete": false,
+      "published_on": "2026-04-01"
+    },
+    {
+      "id": "p05",
+      "path": "pages/p05.html",
+      "sha256": "a7161633359035dfe92af4403113cf2799e4b98d65b07e88f07fef2bf152eae5",
+      "bytes": 1106,
+      "obsolete": true,
+      "published_on": "2017-01-01"
+    },
+    {
+      "id": "p06",
+      "path": "pages/p06.html",
+      "sha256": "70f38b5a176a93f68f91539abfec911912697b0ee4ceb0ae4230bba8c69e2049",
+      "bytes": 1346,
+      "obsolete": false,
+      "published_on": "2026-01-01"
+    },
+    {
+      "id": "p07",
+      "path": "pages/p07.html",
+      "sha256": "92a65a930624e6063b78f855a3a6419494a3af80e57adfa33ca141cfdf2db618",
+      "bytes": 1127,
+      "obsolete": false,
+      "published_on": "2026-02-01"
+    },
+    {
+      "id": "p08",
+      "path": "pages/p08.html",
+      "sha256": "43727911b91b84b2276ae76c5b8ed75c4ed5648e26ec63941b04b46f2322e4ff",
+      "bytes": 1014,
+      "obsolete": false,
+      "published_on": "2026-03-01"
+    },
+    {
+      "id": "p09",
+      "path": "pages/p09.html",
+      "sha256": "a34b52d5e273eb93f45213952bd4581517a3f10782275076361df0dbe5e54abb",
+      "bytes": 1404,
+      "obsolete": false,
+      "published_on": "2026-01-01"
+    },
+    {
+      "id": "p10",
+      "path": "pages/p10.html",
+      "sha256": "911a3727809f3200bf5af3380e93481a01e30ce0f86df57d132eac2a9c672533",
+      "bytes": 1073,
+      "obsolete": false,
+      "published_on": "2026-02-01"
+    },
+    {
+      "id": "p11",
+      "path": "pages/p11.html",
+      "sha256": "e459d153539ab69dbd0a26324d9d3c5c8c84f389f64301b5b8f6d3a5d028bc5d",
+      "bytes": 914,
+      "obsolete": false,
+      "published_on": "2026-03-01"
+    },
+    {
+      "id": "p12",
+      "path": "pages/p12.html",
+      "sha256": "2fa578e3011cbbcd719628b7787d56a44a98d885991238e160e4409c9f2af71e",
+      "bytes": 1076,
+      "obsolete": false,
+      "published_on": "2026-04-01"
+    },
+    {
+      "id": "p13",
+      "path": "pages/p13.html",
+      "sha256": "23126f95a0be7f734ffa3b3880c26f590337b4ead819b7db653e0206fd48c1b6",
+      "bytes": 902,
+      "obsolete": false,
+      "published_on": "2026-04-01"
+    },
+    {
+      "id": "p14",
+      "path": "pages/p14.html",
+      "sha256": "716dfc83b24f625a9c3c4bfa9fa9b9beae20637ec2b6b2f0141a5fbdf94afcf3",
+      "bytes": 1091,
+      "obsolete": false,
+      "published_on": "2026-04-01"
+    },
+    {
+      "id": "p15",
+      "path": "pages/p15.html",
+      "sha256": "d60d97b7c3e0f9d786e7de124840efa157eb5ccc0f8bbe740c6a43beb4b0a147",
+      "bytes": 1003,
+      "obsolete": false,
+      "published_on": "2026-04-01"
+    }
+  ]
+}
